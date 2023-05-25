@@ -1,0 +1,43 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(#34ebd2 0%, #c70c0c 100%);
+    background-repeat: no-repeat;
+    font-family: 'Heebo', sans-serif;
+}
+
+h1 {
+    text-shadow: 2pxx 2px #1cc70c;
+    font-size: 20px;
+}
+
+#bio{
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+img
+{
+    border-radius: 50%;
+    width: 100px;
+}
+
+ul
+{
+    text-align: center;
+}
+
+.link:hover
+{
+    background-color: beige;
+}
+
+li
+{
+   list-style: none;
+   float: right;
+   margin-right: 5px;
+
+}
+
